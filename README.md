@@ -1,4 +1,3 @@
-
 # E-Commerce Chatbot: Question and Answer System Based on Google Palm LLM and Langchain for E-commerce company  
 
 This is an end to end LLM project based on Google Palm and Langchain. We are building a Q&A system for an e-learning company.
@@ -32,3 +31,13 @@ The dataset is freely available on Kaggle. This system will provide a streamlit 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
+## Usage
+
+1. Run the Streamlit app by executing:
+```bash
+streamlit run main.py
+
+```
+
+2.Ask a question in the given box and press enter key on keyboard.
+The Chatbot will reply you back with the relevant answer to your question in a few seconds
