@@ -27,12 +27,7 @@ The dataset is freely available on Kaggle. This system will provide a streamlit 
 ```bash
   git clone https://github.com/subhradeep25-gan/E-Commerce-Chatbot
 ```
-2. Install the required dependencies using pip:
-
-```bash
-  pip install -r requirements.txt
-```
-3.Acquire an api key through makersuite.google.com and put it in a file named secret_key.py
+2.Acquire an api key through makersuite.google.com and put it in a file named secret_key.py
 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
