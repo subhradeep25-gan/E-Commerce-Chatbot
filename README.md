@@ -53,5 +53,5 @@ The Chatbot will reply you back with the relevant answer to your question in a f
 
 - main.py: The main Streamlit application script.
 - ecommerce_google_palm_chatbot.py: This has all the langchain code
-- .env: File for storing your Google API key.
+- secret_key.py: File for storing your Google API key.
 - output.csv: This the csv file of the ECommerce FAQ data
