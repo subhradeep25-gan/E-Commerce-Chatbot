@@ -13,3 +13,9 @@ The dataset is freely available on Kaggle. This system will provide a streamlit 
 - The human staff of the e-commerce company can use this file to assist their customers.
 - We will build an LLM based question and answer system that can reduce the workload of their human staff.
 - Customers should be able to use this system to ask questions directly and get answers within seconds
+
+## Technical Stack Used
+  - Langchain + Google Palm: LLM based Q&A
+  - Streamlit: UI
+  - Huggingface instructor embeddings: Text embeddings
+  - FAISS: Vector database
