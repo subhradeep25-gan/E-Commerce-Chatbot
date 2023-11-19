@@ -41,3 +41,17 @@ streamlit run main.py
 
 2.Ask a question in the given box and press enter key on keyboard.
 The Chatbot will reply you back with the relevant answer to your question in a few seconds
+
+## Sample Questions
+1. What is your return policy?
+2. Can I change my shipping address after placing an order?
+3. How can I leave a product review?
+4. Can I return a product without a receipt or if it was purchased with a gift card?
+5. How long does shipping take?
+
+## Project Structure
+
+- main.py: The main Streamlit application script.
+- ecommerce_google_palm_chatbot.py: This has all the langchain code
+- .env: File for storing your Google API key.
+- output.csv: This the csv file of the ECommerce FAQ data
