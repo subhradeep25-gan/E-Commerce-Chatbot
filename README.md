@@ -6,3 +6,10 @@ The dataset is freely available on Kaggle. This system will provide a streamlit 
 [Dataset link](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset/)
 
 ![](ECommerceChatbot.png)
+
+## Project Highlights
+
+- Used a CSV file of FAQs obtained from Kaggle. 
+- The human staff of the e-commerce company can use this file to assist their customers.
+- We will build an LLM based question and answer system that can reduce the workload of their human staff.
+- Customers should be able to use this system to ask questions directly and get answers within seconds
